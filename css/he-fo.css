@@ -1,0 +1,71 @@
+body{
+    background-image: url(../img/flour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0;
+    margin-left: 0;
+}
+.form .heading{
+    text-align: center;
+}
+
+.form .yform{
+    margin-left: 100px;
+    background-color: #ffffff;
+    padding: 100px;
+}
+.form .main-form input{
+    margin-top: 30px;
+}
+.form .main-form{
+    text-align: center;
+}
+.form .main-form a{
+    text-align: center;
+    padding: 20px;
+}
+.form  .box{
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 1px 11px black;
+}
+.form nav{
+   text-align: center;
+   
+}
+.form .menu ul li a{
+     color:white;
+    padding-top: 80px;
+    text-align: center;
+}
+.form .menu{
+    background-color: blue;
+}
+
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    /* text-align: center; */
+    margin: 0 auto;
+    height: 613px;
+}
+.i{
+       font-size: 43px;
+    color: white;
+    margin-top: -368px;
+    /* padding-left: 53px; */
+    margin-bottom: 257px;
+    /* margin-left: 7px;
+}
